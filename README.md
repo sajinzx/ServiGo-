@@ -23,14 +23,14 @@ Modern responsive landing page for ServiGo - a vehicle service platform. Built w
    cd servigo-landing
 
 ## 🎨 Color Scheme
---primary-color: #6366F1    /* Primary purple */  
---accent-color: #3F83F8     /* Blue accent */
---text-color: #333333       /* Dark text */
---link-color: #2563EB       /* Link blue */
---background-color: #ffffff /* White background */
---light-gray: #f0f0f0       /* Light gray */
---gray: #808080             /* Medium gray */
---dark-gray: #555           /* Dark gray */
+- --primary-color: #6366F1    /* Primary purple */  
+- --accent-color: #3F83F8     /* Blue accent */
+- --text-color: #333333       /* Dark text */
+- --link-color: #2563EB       /* Link blue */
+- --background-color: #ffffff /* White background */
+- --light-gray: #f0f0f0       /* Light gray */
+- --gray: #808080             /* Medium gray */
+- --dark-gray: #555           /* Dark gray */
 
 
 ## 📐 CSS Architecture
@@ -48,9 +48,9 @@ Modern responsive landing page for ServiGo - a vehicle service platform. Built w
 
 ## 📈 Future Enhancements
 
- Add JavaScript for enhanced interactivity
- Implement form validation for newsletter signup
- Add loading animations
- Integrate with backend API
- Add dark mode toggle
- Implement lazy loading for images
+ -Add JavaScript for enhanced interactivity
+ -Implement form validation for newsletter signup
+ -Add loading animations
+ -Integrate with backend API
+ -Add dark mode toggle
+ -Implement lazy loading for images
