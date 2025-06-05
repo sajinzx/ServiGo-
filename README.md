@@ -48,9 +48,9 @@ Modern responsive landing page for ServiGo - a vehicle service platform. Built w
 
 ## 📈 Future Enhancements
 
- -Add JavaScript for enhanced interactivity
- -Implement form validation for newsletter signup
- -Add loading animations
- -Integrate with backend API
- -Add dark mode toggle
- -Implement lazy loading for images
+- Add JavaScript for enhanced interactivity
+- Implement form validation for newsletter signup
+- Add loading animations
+- Integrate with backend API
+- Add dark mode toggle
+- Implement lazy loading for images
