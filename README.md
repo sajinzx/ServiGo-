@@ -34,17 +34,17 @@ Modern responsive landing page for ServiGo - a vehicle service platform. Built w
 
 
 ## 📐 CSS Architecture
--**CSS Custom Properties**: Consistent color and spacing system
--**BEM-like Naming**: Clear, descriptive class names
--**Mobile-First**: Responsive design starting from mobile
--**Flexbox & Grid**: Modern layout techniques
--**Smooth Transitions**: Subtle hover and scale effects
+- **CSS Custom Properties**: Consistent color and spacing system
+- **BEM-like Naming**: Clear, descriptive class names
+- **Mobile-First**: Responsive design starting from mobile
+- **Flexbox & Grid**: Modern layout techniques
+- **Smooth Transitions**: Subtle hover and scale effects
 
 ## 📞 Contact & Social
--**Instagram**: @sajin.zx
--**LinkedIn**: Sajin MK
--**GitHub**: @sajinzx
--**Twitter**: @servigo
+- **Instagram**: @sajin.zx
+- **LinkedIn**: Sajin MK
+- **GitHub**: @sajinzx
+- **Twitter**: @servigo
 
 ## 📈 Future Enhancements
 
