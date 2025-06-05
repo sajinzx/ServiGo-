@@ -44,7 +44,7 @@ Modern responsive landing page for ServiGo - a vehicle service platform. Built w
 - **Instagram**: @sajin.zx
 - **LinkedIn**: Sajin MK
 - **GitHub**: @sajinzx
-- **Twitter**: @servigo
+
 
 ## 📈 Future Enhancements
 
